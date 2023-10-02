@@ -34,4 +34,27 @@ const Info = [
     }
 ]
 
-export { Info };
+const Services = [
+    {
+        id: 1,
+        title: "JETOUR avtomobil ishlab chiqarish bo‘yicha 20 yildan ortiq tajribagaega bo‘lgan taniqli kompaniya ... "
+    },
+    {
+        id: 2,
+        title: "Avtomobil sanoatidagi 20 yildan ortiq tajribaga asoslanib, xalqaro mutaxassislar jamoasining ichki rivojlanishi bilan JETOUR innovatsion va aqlli krossoverlar oilasini taqdim etadi."
+    },
+    {
+        id: 3,
+        title: "Avtomobil sanoatidagi 20 yildan ortiq tajribaga asoslanib, xalqaro mutaxassislar jamoasining ichki rivojlanishi bilan JETOUR innovatsion va aqlli krossoverlar oilasini taqdim etadi."
+    },
+    {
+        id: 4,
+        title: "Avtomobil sanoatidagi 20 yildan ortiq tajribaga asoslanib, xalqaro mutaxassislar jamoasining ichki rivojlanishi bilan JETOUR innovatsion va aqlli krossoverlar oilasini taqdim etadi."
+    },
+    {
+        id: 5,
+        title: "Avtomobil sanoatidagi 20 yildan ortiq tajribaga asoslanib, xalqaro mutaxassislar jamoasining ichki rivojlanishi bilan JETOUR innovatsion va aqlli krossoverlar oilasini taqdim etadi."
+    },
+]
+
+export { Info, Services };

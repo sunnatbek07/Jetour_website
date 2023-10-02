@@ -1,5 +1,4 @@
 import { FC } from "react";
-import Car from "../../../assets/images/x90-zilong.png";
 
 const Card: FC = ({ case: { image, speed, title, description } }) => {
   return (
@@ -27,4 +26,4 @@ const Card: FC = ({ case: { image, speed, title, description } }) => {
   )
 }
 
-export default Card
+export default Card;
