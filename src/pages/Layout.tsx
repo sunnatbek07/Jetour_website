@@ -13,10 +13,12 @@ const Layout = () => {
         <>
             <Suspense fallback={<Spinner />}>
                 <Header />
-                <Intro />
-                <Models />
-                <About />
-                <Service />
+                <main className="mt-[61px]">
+                    <Intro />
+                    <Models />
+                    <About />
+                    <Service />
+                </main>
                 <Footer />
             </Suspense>
         </>
