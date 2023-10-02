@@ -1,5 +1,6 @@
 import Logo from "../../components/Ui/Icons/Logo";
 import PlayIcon from "../../components/Ui/Icons/PlayIcon";
+import dasheng from "../../assets/images/jetour-dasheng2.png";
 
 const Intro = () => {
   return (
@@ -9,6 +10,7 @@ const Intro = () => {
           <Logo />
           <PlayIcon />
         </div>
+        <img src={dasheng} alt="Jetour dasheng" className="mt-[78px] rounded-xl" />
         <div className="flex items-center justify-between mt-[119px]">
           <h3 className="text-[48px] text-[#999999] leading-[56px]">
             <strong className="text-[#1A1A1A]">JETOUR</strong> yuqori didLI insonlar uchun

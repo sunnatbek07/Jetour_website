@@ -6,22 +6,22 @@ const Header = () => {
         <nav className="flex justify-between items-center h-[61px] border-b-2">
           <ul className="flex gap-x-8 items-center">
             <li>
-              <a href="#" className="hover:text-green-700 duration-200">
+              <a href="#models" className="hover:text-green-700 duration-200">
                 Models
               </a>
             </li>
             <li>
-              <a href="#" className="hover:text-green-700 duration-200">
+              <a href="#about" className="hover:text-green-700 duration-200">
                 About
                 Us</a>
             </li>
             <li>
-              <a href="#" className="hover:text-green-700 duration-200">
+              <a href="#service" className="hover:text-green-700 duration-200">
                 Service
               </a>
             </li>
             <li>
-              <a href="#" className="hover:text-green-700 duration-200">
+              <a href="#contacts" className="hover:text-green-700 duration-200">
                 Contacts
               </a>
             </li>

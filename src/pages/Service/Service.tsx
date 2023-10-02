@@ -40,7 +40,9 @@ const Service = () => {
             <div className="flex flex-col gap-y-3 mt-[67px]">
               <input type="text" className="px-5 py-3 bg-[#E6E6E6] rounded-xl w-full" placeholder="Name" />
               <input type="tel" name="phone" id="phone" className="px-5 py-3 bg-[#E6E6E6] rounded-xl w-full" placeholder="Phone" />
-              <button className="py-3 w-full rounded-xl bg-[#0D0D0D] focus:ring-2 hover:bg-orange-200 ring-[#1A1A1A] text-white focus:text-[#1A1A1A] focus:bg-white">Yuborish</button>
+              <button className="py-3 w-full rounded-xl bg-[#0D0D0D] focus:ring-2 hover:bg-orange-200 ring-[#1A1A1A] text-white focus:text-[#1A1A1A] focus:bg-white duration-150">
+                Yuborish
+              </button>
             </div>
           </div>
         </div>
