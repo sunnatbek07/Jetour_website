@@ -1,7 +1,10 @@
+import Layout from "./pages/Layout";
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <Layout />
+    </>
   )
 }
 
