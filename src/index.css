@@ -13,3 +13,20 @@
 .container {
     max-width: 1320px;
 }
+
+.travel {
+    width: 538px;
+    height: 360px;
+    border-radius: 12px;
+    background: linear-gradient(180deg, #849FA1 0%, #1A1A1A 100%);
+    padding: 240px 42px 40px 40px;
+}
+
+.travel h3 {
+    color: #FFF;
+    font-family: Michroma;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    text-transform: uppercase;
+}
